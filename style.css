@@ -1,0 +1,12 @@
+button {
+    width: fit-content;
+    background: #fd5;
+    padding: 10px 25px;
+    border: none;
+    cursor: pointer;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;align-items: center;
+}
